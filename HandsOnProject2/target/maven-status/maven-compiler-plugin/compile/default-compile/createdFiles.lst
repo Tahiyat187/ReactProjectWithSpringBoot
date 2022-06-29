@@ -1,0 +1,16 @@
+com\example\handsOnProject2\exception\StudentAlreadyExistsException.class
+com\example\handsOnProject2\exception\GlobalExceptionHandler.class
+com\example\handsOnProject2\filters\JWTRequestFilter.class
+com\example\handsOnProject2\model\JWTResponse.class
+com\example\handsOnProject2\model\StudentView.class
+com\example\handsOnProject2\controller\StudentController.class
+com\example\handsOnProject2\security\HandsOnProject2SecurityConfig.class
+com\example\handsOnProject2\security\JWTUtil.class
+com\example\handsOnProject2\ErpProjectApplication.class
+com\example\handsOnProject2\repository\StudentRepository.class
+com\example\handsOnProject2\model\Student.class
+com\example\handsOnProject2\exception\ErrorDetails.class
+com\example\handsOnProject2\controller\AuthenticationController.class
+com\example\handsOnProject2\repository\StudentDao.class
+com\example\handsOnProject2\model\AuthenticationRequest.class
+com\example\handsOnProject2\security\CustomUserDetailsService.class

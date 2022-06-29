@@ -1,0 +1,37 @@
+.update-div{
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 3px;
+    border-radius: 10px;
+    border: solid;
+    border-color: darkgray;
+    padding: 20px;
+    width: 40%;
+    background-color: rgb(194, 199, 203);
+    box-shadow: 5px 5px rgb(62, 63, 64);
+    font-family: Helvetica;
+    
+}
+
+.update-label{
+    display: inline-block;
+    width: 200px;
+    margin-top: 10px;
+    vertical-align: top;
+}
+.update-input{
+    display: inline-block;
+    width: 300px;
+    margin-top: 10px;
+    box-shadow: 3px 3px;
+    border-radius: 5px;
+}
+
+.update-button{
+    position: relative;
+    left: 100px;
+    margin-top: 10px;
+    border-radius: 5px;
+
+}
+
